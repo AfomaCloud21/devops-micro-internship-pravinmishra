@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/![alt text](image.png)![alt text](image-1.png)  )
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that protocol is a set of rules that allows computers to communicate with each other correctly, just like people need a common language and traffic needs road rules.
 
 ---
 
@@ -59,7 +59,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+EpicReads is hosted on a server in Finland, but anyone in the USA can access it through the internet. When a user enters the website address in a browser, the browser uses the website's IP address to locate the correct server where the website is hosted. It then uses TCP/IP, which is a set of communication rules, to establish a reliable connection and make sure the data is delivered correctly and in the right order. Next, my browser sends an HTTP or HTTPS request to ask the server for the webpage. HTTP is the protocol used to request and receive web pages, while HTTPS is the secure version that encrypts the data during transmission. The server sends the webpage back in small pieces called packets through packet switching. These packets may travel along different routes across the internet before my computer reassembles them to display the complete EpicReads website using TCP.
+
 
 ---
 
@@ -91,7 +92,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/![![alt text](image-3.png)](image-2.png))
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +103,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* REACT
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* PYTHON
+* Node.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MYSQL
+* postgreSQL
 
 ---
 
@@ -142,8 +143,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
-
+DNS (Domain Name System) is like the internet's address book. It translates a domain name, such as epicreads.com, into an IP address that computers use to find the correct server. Without DNS, users would have to remember long IP addresses instead of simple website names. Since 52.172.142.222 is an IPv4 address, my friend should use an A Record. An A Record links the domain name to the IPv4 address, allowing users to access the EpicReads website by typing epicreads.com into their browser.
 ---
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
@@ -178,7 +178,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/![alt text](image-4.png))
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -218,7 +218,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/afoma-egbuonu-a0304a43_dmibypravinmishra-ugcPost-7490620685745033216-HJVX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkVPSMBE3v_GANgv4HimZVdVa0QnO8iL9I
 ```
 
 ---
@@ -227,7 +227,41 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Restarting My DevOps Journey with a Stronger Foundation
+
+
+
+I'm excited to be going through the DevOps Micro Internship (DMI) again but this time through the Self-Paced Engineer Track.
+
+I previously completed this program, but I've decided to revisit it from the beginning to refresh my knowledge, strengthen my understanding of the fundamentals, and fill in any gaps as I continue growing in my DevOps career. This second pass allows me to learn at my own pace while reinforcing the concepts through hands-on practice.
+
+I'm excited to share that I've completed my first assignment in my DevOps learning journey. Although I'm just getting started, this week helped me build a strong foundation in networking, application architecture, DNS, and developer tools.
+
+ChatGPT became My Learning Assistant
+
+I used ChatGPT to better understand networking protocols through simple, beginner-friendly explanations and real-life examples.
+
+
+
+ Internet & Networking
+
+I learned how users can access a website hosted in another country and deepened my understanding of packet switching, IP addresses, TCP/IP, and HTTP/HTTPS.
+
+ Application Architecture
+
+I compared two-tier and three-tier application architectures and explored how the frontend, backend, and database work together, along with common technologies used in each layer.
+
+Domain Name System (DNS)
+
+I reviewed how DNS translates domain names into IP addresses and learned why an A Record is used to map a domain to an IPv4 address.
+
+
+
+Revisiting the fundamentals has reminded me that building a strong foundation is just as important as learning advanced tools. I'm looking forward to continuing this journey and sharing more of what I learn.
+
+
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/AfomaCloud21.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced #DMIByPravinMishra
 
 ---
 
@@ -235,19 +269,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Since I have a prior knowledge, I found it quite easy.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Nothing
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Nothing yet
 
 ---
 

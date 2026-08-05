@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Afoma Egbuonu |
+| **LinkedIn** | [afoma-egbuonu](https://www.linkedin.com/in/afoma-egbuonu-a0304a43) |
+| **Location** | Nigeria |
+| **Background** | Technical Product Manager → DevOps |
+| **Goal** | Land a DevOps role with a great company and keep building myself |
 
 ---
 
