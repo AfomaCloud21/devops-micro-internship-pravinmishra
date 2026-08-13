@@ -79,8 +79,8 @@ claude
 **Expected Output:** Version number printed. Browser opens for Anthropic login. After logging in, the Claude Code prompt appears in your terminal.
 
 **Screenshots Required:**
-- Screenshot 1 — Terminal showing `claude --version` with the version number visible
-- Screenshot 2 — Claude Code authenticated and showing the terminal prompt 
+- Screenshot 1 — Terminal showing `claude --version` with the version number visible ![alt text](image.png)
+- Screenshot 2 — Claude Code authenticated and showing the terminal prompt ![alt text](image-1.png)
 
 ---
 
@@ -96,8 +96,8 @@ claude
 
 **Commands:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/AfomaCloud21/Ultimate-Agentic-DevOps-with-Claude-Code.git
+cd Ultimate-Agentic-DevOps-with-Claude-Code
 code .
 ```
 
@@ -105,7 +105,7 @@ code .
 
 **Screenshots Required:**
 - Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
-
+![alt text](image-2.png)
 ---
 
 ### Task 3 — Observe the Agentic Loop
@@ -130,8 +130,8 @@ How many lines of CSS does this project have?
 - Question 2: Claude runs a command like `wc -l style.css` and reports the exact number
 
 **Screenshots Required:**
-- Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
-- Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
+- Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)![alt text](image-3.png) ![alt text](image-4.png)
+- Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count ![alt text](image-5.png)
 
 ---
 

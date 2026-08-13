@@ -75,7 +75,7 @@ What is this project and how should I deploy it?
 **Expected Output:** Claude gives a generic answer based only on the existing project files. It may describe the project as a static HTML/CSS website and suggest common deployment options.
 
 **Screenshots Required:**
-- Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
+- Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)![alt text](image-6.png)
 
 ---
 
@@ -96,7 +96,7 @@ What is this project and how should I deploy it?
 **Expected Output:** A CLAUDE.md appears at the project root. It has a Project Overview and Architecture section but is missing important details like the intended AWS deployment.
 
 **Screenshots Required:**
-- Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
+- Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content ![alt text](image-7.png)
 
 ---
 
@@ -122,7 +122,7 @@ What is this project and how should I deploy it?
 **Expected Output:** A complete CLAUDE.md with all 5 sections, each containing project-specific content.
 
 **Screenshots Required:**
-- Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
+- Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)![alt text](image-8.png) ![alt text](image-9.png) ![alt text](image-10.png) ![alt text](image-11.png)
 
 ---
 
@@ -147,8 +147,8 @@ Add a React component to the homepage.
 - Test 2: Claude refuses or warns — citing the "No JavaScript" convention from CLAUDE.md
 
 **Screenshots Required:**
-- Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
-- Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
+- Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform) ![alt text](image-12.png)
+- Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md ![alt text](image-13.png)
 
 ---
 
@@ -185,8 +185,8 @@ git push origin main
 
 **Screenshots Required:**
 
-- Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
-
+- Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit ![alt text](image-14.png)
+https://github.com/AfomaCloud21/Ultimate-Agentic-DevOps-with-Claude-Code
 ---
 
 ## 8. Industry Insight

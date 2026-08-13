@@ -78,7 +78,7 @@ mkdir -p .claude/skills/deploy
 **Expected Output:** VS Code sidebar shows `.claude/skills/` with 4 folders inside it.
 
 **Screenshots Required:**
-- Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
+- Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible ![alt text](image-15.png)
 
 ---
 
@@ -99,8 +99,8 @@ mkdir -p .claude/skills/deploy
 **Expected Output:** Each skill folder contains exactly the right files. `scaffold-terraform` has 2 files. The other 3 have 1 file each.
 
 **Screenshots Required:**
-- Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
-- Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
+- Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md` ![alt text](image-16.png)
+- Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true` ![alt text](image-17.png)
 ---
 
 ### Task 3 — Run /scaffold-terraform
@@ -121,8 +121,8 @@ mkdir -p .claude/skills/deploy
 **Expected Output:** Claude creates `main.tf`, `variables.tf`, `outputs.tf`, `providers.tf`, `backend.tf` inside a `terraform/` folder. Claude shows a summary checklist of what was created.
 
 **Screenshots Required:**
-- Screenshot 4 — Claude's response showing the scaffold complete with the file list
-- Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
+- Screenshot 4 — Claude's response showing the scaffold complete with the file list ![alt text](image-20.png)
+- Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside ![alt text](image-19.png)
 
 ---
 
@@ -151,7 +151,7 @@ Then in Claude Code:
 **Expected Output:** Claude runs `terraform plan`, receives output or an auth error, and analyzes it. If it errors, Claude explains why it failed and what would be needed to fix it.
 
 **Screenshots Required:**
-- Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
+- Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)  ![alt text](image-21.png) 
 
 ---
 
@@ -186,8 +186,8 @@ Create a LinkedIn post including:
 - Tag: #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps
 
 **Submit:**
-- LinkedIn post URL
-- Screenshot of the post
+- LinkedIn post URL https://www.linkedin.com/posts/afoma-egbuonu-a0304a43_dmibypravinmishra-agenticai-claudecode-ugcPost-7493597357373321216-RN-e/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkVPSMBE3v_GANgv4HimZVdVa0QnO8iL9I
+- Screenshot of the post ![alt text](image-22.png)
 
 ---
 
